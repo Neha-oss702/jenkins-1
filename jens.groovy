@@ -7,7 +7,7 @@ pipeline {
                 echo 'its realhoubuuohuoyhioj World'
             }
         }
-        stage('Hello') {
+        stage('test') {
             steps {
                 echo 'its realhojjoiokjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjubuuohuoyhioj World'
             }
